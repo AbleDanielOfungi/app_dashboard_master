@@ -1,0 +1,52 @@
+{
+  "popular_products": [
+    {
+      "id": 1,
+      "image": "fruits/banana.jpeg",
+      "title": "Bananas",
+      "price": "2000"
+    },
+    {
+      "id": 2,
+      "image": "fruits/banana1.jpeg",
+      "title": "Bananas",
+      "price": "3600"
+    },
+    {
+      "id": 3,
+      "image": "fruits/matooke.jpeg",
+      "title": "Matooke",
+      "price": "3500"
+    },
+    {
+      "id": 4,
+      "image": "fruits/matooke.jpeg",
+      "title": "Matooke",
+      "price": "4000"
+    },
+    {
+      "id": 5,
+      "image": "fruits/avacodo.jpeg",
+      "title": "Avocados",
+      "price": "6000"
+    },
+    {
+      "id": 6,
+      "image": "fruits/tomatos.jpeg",
+      "title": "Tomatos",
+      "price": "5000"
+    },
+    {
+      "id": 7,
+      "image": "fruits/oranges.jpeg",
+      "title": "Orange",
+      "price": "3500"
+    },
+    {
+      "id": 8,
+      "image": "fruits/passion_fruit.jpeg",
+      "title": "Passion Fruits",
+      "price": "3500"
+    }
+  ]
+}

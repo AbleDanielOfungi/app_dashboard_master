@@ -1,0 +1,46 @@
+{
+  "popular_products": [
+    {
+      "id": 1,
+      "image": "popular_products/mangoes.jpeg",
+      "title": "Mongoes",
+      "price": "2000"
+    },
+    {
+      "id": 2,
+      "image": "popular_products/cassava.jpeg",
+      "title": "Cassava flour",
+      "price": "3600"
+    },
+    {
+      "id": 3,
+      "image": "popular_products/maize.jpeg",
+      "title": "Maize flour",
+      "price": "3500"
+    },
+    {
+      "id": 4,
+      "image": "popular_products/millet.jpeg",
+      "title": "Millet flour",
+      "price": "4000"
+    },
+    {
+      "id": 5,
+      "image": "popular_products/groundnuts.jpeg",
+      "title": "Groundnuts",
+      "price": "6000"
+    },
+    {
+      "id": 6,
+      "image": "popular_products/rice.jpeg",
+      "title": "Rice",
+      "price": "5000"
+    },
+    {
+      "id": 7,
+      "image": "popular_products/millet_grain.jpeg",
+      "title": "Millet grain",
+      "price": "3500"
+    }
+  ]
+}

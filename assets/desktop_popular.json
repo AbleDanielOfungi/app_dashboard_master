@@ -1,0 +1,53 @@
+{
+  "popular_products": [
+    {
+      "id": 1,
+      "image": "popular_products1/avocado.jpeg",
+      "title": "Avocado",
+      "price": "2000",
+      "per": "kg"
+    },
+    {
+      "id": 2,
+      "image": "popular_products1/tomatoes.png",
+      "title": "Tomatoes",
+      "price": "3600",
+      "per": "20gm"
+    },
+    {
+      "id": 3,
+      "image": "popular_products1/bringle.jpg",
+      "title": "Bringle",
+      "price": "3500",
+      "per": "20gm"
+    },
+    {
+      "id": 4,
+      "image": "popular_products1/apple.jpeg",
+      "title": "Fresh Apples",
+      "price": "4000",
+      "per": "kg"
+    },
+    {
+      "id": 5,
+      "image": "popular_products1/oranges.jpeg",
+      "title": "Oranges",
+      "price": "6000",
+      "per": "kg"
+    },
+    {
+      "id": 6,
+      "image": "popular_products1/grapes.jpeg",
+      "title": "Grapes",
+      "price": "5000",
+      "per": "20gm"
+    },
+    {
+      "id": 7,
+      "image": "popular_products1/strawberry.jpeg",
+      "title": "Strawberry",
+      "price": "3500",
+      "per": "20gm"
+    }
+  ]
+}

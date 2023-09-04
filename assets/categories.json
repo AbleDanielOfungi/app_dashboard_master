@@ -1,0 +1,64 @@
+{
+  "popular_products": [
+    {
+      "id": 1,
+      "image": "categories/vegetables.jpeg",
+      "title": "Vegetable",
+      "price": "2000"
+    },
+    {
+      "id": 2,
+      "image": "categories/fruits.jpeg",
+      "title": "Fruits",
+      "price": "3600"
+    },
+    {
+      "id": 3,
+      "image": "categories/cooking_oil.jpg",
+      "title": "Cooking Oil",
+      "price": "3500"
+    },
+    {
+      "id": 4,
+      "image": "categories/potatoes.jpg",
+      "title": "Potatoes",
+      "price": "4000"
+    },
+    {
+      "id": 5,
+      "image": "categories/meat.jpg",
+      "title": "Meat",
+      "price": "6000"
+    },
+    {
+      "id": 6,
+      "image": "categories/fish.jpg",
+      "title": "Fish",
+      "price": "5000"
+    },
+    {
+      "id": 7,
+      "image": "categories/bakery.jpg",
+      "title": "Bakery",
+      "price": "3500"
+    },
+    {
+      "id": 8,
+      "image": "categories/eggs.jpg",
+      "title": "Eggs",
+      "price": "3500"
+    },
+    {
+      "id": 8,
+      "image": "categories/chicken.jpg",
+      "title": "Chicken",
+      "price": "3500"
+    },
+    {
+      "id": 8,
+      "image": "categories/spices.jpeg",
+      "title": "Spices",
+      "price": "3500"
+    }
+  ]
+}

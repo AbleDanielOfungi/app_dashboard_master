@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>573491167004-e6u24em00c345gg56q6gmd70e13n71j7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.573491167004-e6u24em00c345gg56q6gmd70e13n71j7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB8JLVYHr7_ASPvvYIgCppOk0-lmsZ-_as</string>
+	<key>GCM_SENDER_ID</key>
+	<string>573491167004</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.yookatale.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>yookatale-b6513</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yookatale-b6513.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:573491167004:ios:0aee28c42a526d90c6c4d9</string>
+</dict>
+</plist>
